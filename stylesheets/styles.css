@@ -1,0 +1,57 @@
+/** HEADER **/
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+
+.navbar-brand {
+  padding-top: 15px;
+  padding-left:0;
+}
+.navbar-brand h1 { /* Restaurant name */
+  font-family: 'Lora', serif;
+  text-align:center;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+/*#nav-list {
+  margin-top: 10px;
+}*/
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+      border:outset #fff;
+        
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+.menu-item-description { 
+  position: relative;
+  overflow: hidden;
+  background-color: #0a0;
+  margin: 0 auto 15px;
+}
+/*.category-tile span {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 1.2em;
+  text-transform: uppercase;
+  background-color: #000;
+  color: #fff;
+  opacity: .8;
+}*/
